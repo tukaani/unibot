@@ -3,7 +3,7 @@ from pprint import pprint
 import config
 
 
-base_url = "https://unisport.fi/yol/api/v1/fi/reservables/{}?details=true&apiKey=drupal8test"
+base_url = "https://api.unisport.fi/v1/fi/reservables/{}?details=true&apiKey=wiNnGtDhKE7W6mKR"
 
 TOKEN = config.TOKEN
 CHATID = config.CHATID
